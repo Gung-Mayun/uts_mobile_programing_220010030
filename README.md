@@ -1,16 +1,5 @@
-# uts_mobile_programing_220010030
+![image](https://github.com/user-attachments/assets/c23f9154-71ad-4226-9fe1-35dc8a77d7f3)
+![image](https://github.com/user-attachments/assets/7d65393d-7fb4-47b5-8769-ec55c78bb428)
+![image](https://github.com/user-attachments/assets/77b4396e-ef80-4d67-ac8d-bc1d1179edc8)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A.A. GEDE MAYUN Dipa paranajaya 220010030
